@@ -1,0 +1,12 @@
+
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Georgia', serif;
+      font-size: 64px;
+      fill: black;
+      letter-spacing: 4px;
+    }
+  </style>
+  <text x="10" y="70" class="logo-text">Zyra</text>
+</svg>
